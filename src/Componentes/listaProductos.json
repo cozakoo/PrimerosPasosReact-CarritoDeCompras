@@ -1,0 +1,36 @@
+{
+    "listaProductos":[
+        {
+            "titulo": "Guitarra Criolla",
+            "imagen": "https://i.pinimg.com/originals/c2/cb/3d/c2cb3d945f6d7b9ed3c5741c98cc93ae.jpg",
+            "descripcion": "afinador inluido",
+            "precio":"4000",
+            "stock":"5"
+        },
+
+        {
+            "titulo": "Celular Iphone 6",
+            "imagen": "https://d34zlyc2cp9zm7.cloudfront.net/products/1ecadb3e9335605cd325c98183ffe6f7e05c3b608cbd5f291c4b48f5cc78e673.jpg_1000",
+            "descripcion": "re piola",
+            "precio":"400000",
+            "stock":"13"
+        },
+
+        { 
+            "titulo": "Silla Gamer",
+            "imagen": "https://images.bidcom.com.ar/resize?src=https://www.bidcom.com.ar/publicacionesML/productos/SILLA14X/1000x1000-SILLA14X.jpg&w=500&q=100",
+            "descripcion": "re piola",
+            "precio":"60000",
+            "stock":"5"
+        },
+
+        {
+
+            "titulo": "Juego de taza de cafe y te ",
+            "imagen": "https://i2.wp.com/capsulascafes.com/wp-content/uploads/2019/11/Juego-de-tazas-de-cafe%CC%81-y-te%CC%81.jpg?fit=466%2C466&ssl=1",
+            "descripcion": "envio gratis",
+            "precio":"3500",
+            "stock":"17"
+        }
+    ]
+}
